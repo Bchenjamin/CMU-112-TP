@@ -10,7 +10,7 @@ and faster, making jumps harder. Assessment of performance will solely be decide
 Running the Program
 First, extract all the files in the zip file into a separate folder. After this, go into GAME.PY and run the code. Simple!
 
-There are no additional libraries that need to be installed. All you need is cmu112_graphics and that's it :)
+There are no additional libraries that need to be installed (with the exception PIL/Pillow and Requests). All you need is cmu112_graphics and that's it.
 
 Please use the mouse to select the difficulty you want and the arrows keys to move. The down arrow key does nothing while the up arrow key makes the
 character jump. You can move the character left and right using the respective arrow keys (the game has been programmed to make walking backwards a lot
